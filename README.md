@@ -16,6 +16,12 @@
 - 받은 파일이 맞는지 확인하려면 `SHA256SUMS.txt` 의 값과 비교하세요 (PowerShell: `Get-FileHash 파일이름`).
 - 업데이트하거나 제거해도 편집한 내용과 설정은 지워지지 않습니다.
 
+## 사용 설명서
+
+설치 방법, 탭별 기능, 사용 팁, 자주 묻는 질문을 담은 설명서입니다.
+
+**[사용 설명서 받기 (PDF)](https://github.com/imkimnote/kimPhoto-releases/raw/main/kimPhoto-manual.pdf)**
+
 ## RAW 사진
 
 Adobe DNG Converter(무료)를 따로 설치하면 RAW 를 고화질로 엽니다. 없으면 카메라가 넣어 둔 미리보기로 엽니다.
